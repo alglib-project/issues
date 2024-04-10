@@ -1,2 +1,2 @@
 # issues
-Publicly available repo with bugs
+Publicly available repo with bugs, issues and tasks
